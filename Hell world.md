@@ -2,3 +2,5 @@
 
 
 Vaznaya informacia!     
+
+Для работы.
